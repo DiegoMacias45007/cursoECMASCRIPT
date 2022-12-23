@@ -1,0 +1,26 @@
+{
+  "name": "cursoecmascript",
+  "version": "1.0.0",
+  "description": "Curso De EcmaScript de platzi 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoMacias45007/cursoECMASCRIPT.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "curso",
+    "platzi",
+    "coder"
+  ],
+  "author": "Diego Macias <djoromac@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoMacias45007/cursoECMASCRIPT/issues"
+  },
+  "homepage": "https://github.com/DiegoMacias45007/cursoECMASCRIPT#readme"
+}
