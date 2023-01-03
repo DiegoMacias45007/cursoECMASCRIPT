@@ -23,5 +23,8 @@
     "url": "https://github.com/DiegoMacias45007/cursoECMASCRIPT/issues"
   },
   "homepage": "https://github.com/DiegoMacias45007/cursoECMASCRIPT#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
